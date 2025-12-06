@@ -92,7 +92,7 @@ VoiceOver & TalkBack<br>full support.
 
 | Component | Technology |
 |:----------|:-----------|
-| Mobile | React Native + Expo SDK 52 |
+| Mobile | React Native + Expo SDK 54 |
 | Web | Next.js 15 + Tailwind CSS 4 |
 | Storage | SQLite (local only) |
 | CI/CD | GitHub Actions + EAS Build |
