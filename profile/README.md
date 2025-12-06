@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Slow-Spot/app/main/assets/logo.png" alt="Slow Spot Logo" width="150" height="150" />
+  <img src="https://raw.githubusercontent.com/Slow-Spot/.github/main/profile/logo.png" alt="Slow Spot Logo" width="150" height="150" />
 </p>
 
 <h1 align="center">Slow Spot</h1>
@@ -11,6 +11,10 @@
 <p align="center">
   <a href="https://slowspot.me">
     <img src="https://img.shields.io/badge/Website-slowspot.me-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Slow-Spot/app">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -91,7 +95,7 @@
 
 | Repository | Description |
 |------------|-------------|
-| [app](https://github.com/Slow-Spot/app) | Mobile app (React Native) & landing page (Next.js) |
+| [app](https://github.com/Slow-Spot/app) | Mobile app (React Native + Expo) & landing page (Next.js) |
 
 ---
 
