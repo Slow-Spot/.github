@@ -1,111 +1,62 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Slow-Spot/.github/main/profile/logo.png" alt="Slow Spot Logo" width="150" height="150" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Slow-Spot/.github/main/profile/logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Slow-Spot/.github/main/profile/logo.png">
+  <img alt="Slow Spot" src="https://raw.githubusercontent.com/Slow-Spot/.github/main/profile/logo.png" width="120">
+</picture>
 
-<h1 align="center">Slow Spot</h1>
+# Slow Spot
 
-<p align="center">
-  <strong>Find your inner peace, one breath at a time.</strong>
-</p>
+**Mindful breathing & meditation app with complete privacy.**
 
-<p align="center">
-  <a href="https://slowspot.me">
-    <img src="https://img.shields.io/badge/Website-slowspot.me-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Slow-Spot/app">
-    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/slowspot.me-6366F1?style=flat-square&logo=safari&logoColor=white)](https://slowspot.me)
+[![App Store](https://img.shields.io/badge/App_Store-Coming_Soon-000000?style=flat-square&logo=apple&logoColor=white)](#)
+[![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-414141?style=flat-square&logo=googleplay&logoColor=white)](#)
 
 ---
 
-## About Us
+### Why Slow Spot?
 
-**Slow Spot** is a meditation app built with privacy at its core. We believe that your meditation practice should be yours alone — no accounts, no tracking, no barriers.
+Most meditation apps require accounts, collect data, and need internet. We built something different.
 
-### Our Philosophy
-
-- **Privacy First** — We collect zero personal data. Everything stays on your device.
-- **Offline Always** — Works without internet. Meditate anywhere, anytime.
-- **Simplicity** — Clean, distraction-free experience. Just you and your breath.
-- **Accessibility** — Available in 7 languages, completely free.
+| | |
+|---|---|
+| **Zero Data Collection** | No accounts, no tracking, no analytics |
+| **Works Offline** | Full functionality without internet |
+| **Open Source** | Transparent and community-driven |
+| **7 Languages** | EN, PL, DE, ES, FR, HI, ZH |
 
 ---
-
-## Our App
-
-<table>
-<tr>
-<td width="50%">
 
 ### Features
 
-- Guided breathing with 5 meditation levels
-- 8 ambient sounds (nature, rain, ocean...)
-- Haptic feedback for breathing phases
-- Dark & light mode
-- VoiceOver support
-
-</td>
-<td width="50%">
-
-### Privacy
-
-| What We Collect | Answer |
-|-----------------|--------|
-| Personal data | None |
-| Analytics | None |
-| Advertising | None |
-| Third-party tracking | None |
-
-</td>
-</tr>
-</table>
+- Guided breathing exercises with 5 meditation levels
+- 8 ambient soundscapes (rain, ocean, forest, and more)
+- Haptic feedback synchronized with breathing phases
+- Dark & light themes with system preference detection
+- Full VoiceOver/TalkBack accessibility support
 
 ---
 
-## Languages
+### Tech Stack
 
-<p align="center">
-  🇬🇧 English · 🇵🇱 Polski · 🇩🇪 Deutsch · 🇪🇸 Español · 🇫🇷 Français · 🇮🇳 हिन्दी · 🇨🇳 中文
-</p>
-
----
-
-## Get the App
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/App%20Store-Coming%20Soon-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Google%20Play-Coming%20Soon-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Test now with <a href="https://expo.dev/@leszekszpunar/slow-spot">Expo Go</a></sub>
-</p>
+```
+Mobile     React Native + Expo SDK 52
+Web        Next.js 15 + Tailwind CSS 4
+Storage    SQLite (local only)
+CI/CD      GitHub Actions + EAS Build
+```
 
 ---
 
-## Repository
+### Repository
 
 | Repository | Description |
-|------------|-------------|
-| [app](https://github.com/Slow-Spot/app) | Mobile app (React Native + Expo) & landing page (Next.js) |
+|:-----------|:------------|
+| **[app](https://github.com/Slow-Spot/app)** | Mobile app & landing page monorepo |
 
 ---
 
-<p align="center">
-  <sub>Made with calm in Poland</sub>
-</p>
+<sub>Made with calm in Poland</sub>
 
-<p align="center">
-  <a href="https://slowspot.me">Website</a> ·
-  <a href="https://slowspot.me/privacy">Privacy Policy</a> ·
-  <a href="https://slowspot.me/terms">Terms of Service</a> ·
-  <a href="mailto:contact@slowspot.me">Contact</a>
-</p>
+[Website](https://slowspot.me) ・ [Privacy](https://slowspot.me/privacy) ・ [Terms](https://slowspot.me/terms)
+
